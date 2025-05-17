@@ -1,0 +1,30 @@
+site_name: 'Example Documentation'
+repo_url: https://github.com/backstage/backstage
+edit_uri: edit/master/plugins/techdocs-backend/examples/documented-component/docs
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Subpage: 
+    - sub-page/index.md
+    - 'Code Sample': sub-page/code/code-sample.md
+  - Extensions: extensions.md
+  - Tabs: tabs.md
+  - Tables: tables.md
+  - Test: test.md
+
+plugins:
+  - techdocs-core
+  - section-index
+  # - drawio-exporter:
+  #     format: svg
+  #     drawio_args: [--embed-svg-images]
+
+markdown_extensions: 
+  - attr_list
+
+#markdown_extensions:
+#  - pymdownx.emoji:
+#      emoji_generator: !!python/name:pymdownx.emoji.to_alt
