@@ -194,6 +194,18 @@ Animals: :tiger: :horse: :turtle: :wolf: :frog:
     | **DP Role** | Role | Description | **Can be granted for**   | Scope | Group Name | **How to grant Data Plane Role** |
     | bold | normal | normal | bold   | normal | normal | bold |
 
+### PlantUml
+Here is a plantuml schema!
+
+```plantuml
+@startuml
+title Login Sequence
+    ComponentA->ComponentB: Login Request
+    note right of ComponentB: ComponentB logs message
+    ComponentB->ComponentA: Login Response
+@enduml
+```
+
 ### Mermaid
 
 Here is a mermaid graph!
