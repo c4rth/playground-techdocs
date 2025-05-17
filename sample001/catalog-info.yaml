@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: documented-component
-  title: Documented Component
+  name: ext-documented-component
+  title: Ext Documented Component
   description: A Service with TechDocs documentation
   annotations:
     #backstage.io/techdocs-ref: url:https://stblobcarth.blob.core.windows.net/techdocs-storage/team-a/service-x/
