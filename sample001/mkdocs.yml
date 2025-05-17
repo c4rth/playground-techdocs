@@ -14,6 +14,8 @@ nav:
   - Tabs: tabs.md
   - Tables: tables.md
   - Test: test.md
+  - More Extensions: extensions-2.md
+  - Mermaid: sample-mermaid.md
 
 plugins:
   - techdocs-core
