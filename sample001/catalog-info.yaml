@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: extern-documented-component
-  title: Extern Documented Component
+  name: ext-generated-component
+  title: Extern Generated Component
   description: A Service with TechDocs documentation
   annotations:
     backstage.io/techdocs-ref: url:https://stblobcarth.blob.core.windows.net/techdocs-storage/default/ext-generated-component/
