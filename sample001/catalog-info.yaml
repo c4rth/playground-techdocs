@@ -3,9 +3,9 @@ kind: Component
 metadata:
   name: ext-generated-component
   title: Extern Generated Component
-  description: A Service with TechDocs documentation
+  description: Externally Generated TechDocs
   annotations:
-    backstage.io/techdocs-ref: url:https://stblobcarth.blob.core.windows.net/techdocs-storage/default/component/ext-generated-component
+    backstage.io/techdocs-ref: url:https://www.backstage.io
 spec:
   type: documentation
   lifecycle: experimental
