@@ -6,6 +6,7 @@ metadata:
   description: Externally Generated TechDocs
   annotations:
     backstage.io/techdocs-ref: url:https://www.backstage.io
+    backstage.io/techdocs-entity-path: url:https://www.backstage.io
 spec:
   type: documentation
   lifecycle: experimental
