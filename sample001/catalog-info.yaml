@@ -6,7 +6,6 @@ metadata:
   description: Externally Generated TechDocs
   annotations:
     backstage.io/techdocs-ref: url:https://stblobcarth.blob.core.windows.net/techdocs-storage/default/ext-generated-component/
-    backstage.io/techdocs-entity-path: url:https://stblobcarth.blob.core.windows.net/techdocs-storage/default/ext-generated-component/
 spec:
   type: documentation
   lifecycle: experimental
