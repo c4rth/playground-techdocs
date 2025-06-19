@@ -5,7 +5,7 @@ metadata:
   title: Extern Generated Component
   description: Externally Generated TechDocs
   annotations:
-    backstage.io/techdocs-ref: url:https://stblobcarth.blob.core.windows.net/techdocs-storage/default/ext-generated-component/
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: documentation
   lifecycle: experimental
