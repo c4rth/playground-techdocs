@@ -8,5 +8,6 @@ metadata:
     backstage.io/techdocs-ref: dir:.
 spec:
   type: documentation
-  lifecycle: experimental
+  lifecycle: experimental  
   owner: group:default/team-a.o
+  system: system-a
