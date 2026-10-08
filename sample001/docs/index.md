@@ -33,8 +33,6 @@ Text { title="This is a tooltip" }
 
 <span title="This is a tooltip">Text</span>
 
-![My alt text](images/test.drawio)
-
 * * *
 
 Headings:
