@@ -1,0 +1,18 @@
+site_name: Confluence Components Showcase
+repo_url: https://<REPO_URL>
+edit_uri: ?path=<PATH>
+nav:
+  - Confluence Components Showcase: index.md
+  - 'Decision Doc: Spring Boot Application Approach': decision-doc-spring-boot-application-approach.md
+  - Confluence Samples:
+      - confluence-samples/index.md
+      - Sample Subpage: confluence-samples/sample-subpage.md
+      - Sample Subpage 2: confluence-samples/sample-subpage-2.md
+      - This&is Test'Title+of"Page: confluence-samples/this-is-test-title-of-page.md
+theme:
+  name: material
+  features:
+    - navigation.indexes
+    - navigation.expand
+plugins:
+  - techdocs-core

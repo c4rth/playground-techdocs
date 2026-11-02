@@ -6,6 +6,7 @@ metadata:
   description: Externally Generated TechDocs
   annotations:
     backstage.io/techdocs-ref: dir:.
+    backstage.io/techdocs-engine: mkdocs
 spec:
   type: documentation
   lifecycle: experimental

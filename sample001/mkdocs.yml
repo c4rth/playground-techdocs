@@ -16,6 +16,8 @@ nav:
   - DrawIo: drawio.md
 theme:
   name: material
+  features:
+    - toc.integrate
 plugins:
   - techdocs-core
 markdown_extensions:

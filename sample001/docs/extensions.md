@@ -65,6 +65,39 @@ And they end up looking like this:
 !!! quote
     Quote: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
 
+## GH-Admonitions
+
+> [!tip]
+> This is normally formatted. Type in lower case. No extra spaces.
+> It contains two lines in markdown, but only a soft linebreak.
+
+>   [!CAUTION]    
+> This admonition has:  
+> 
+>   - ALL CAPS in the type
+>   - a list
+> 
+> Note that this admonition uses the "danger" symbol with "Caution" title.
+
+> [!Important]
+> This contains `inline` and
+> ```python
+> import this  # python code in ticks
+> ```
+>
+>     and code block with spaces
+>
+> Note that this admonition uses the "warning" symbol with "Important" title.
+
+> [!note]
+> And this admonition contains an empty line
+>
+> That only has a `>` character in markdown.
+
+> [!warning]
+> Admonitions may contains quotes
+> > Quotes always contain great wisdom. 
+
 ## PlantUML
 
 You can create dynamic UML diagrams on the fly by just specifying flow via text,
