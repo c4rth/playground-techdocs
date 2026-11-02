@@ -1,6 +1,4 @@
-site_name: Confluence Components Showcase
-repo_url: https://<REPO_URL>
-edit_uri: ?path=<PATH>
+site_name: Confluence Components Showcase - Zensical
 nav:
   - Confluence Components Showcase: index.md
   - 'Decision Doc: Spring Boot Application Approach': decision-doc-spring-boot-application-approach.md

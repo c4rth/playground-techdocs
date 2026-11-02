@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: ext-generated-component2
+  title: Extern Generated Component 2
+  description: Externally Generated TechDocs
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+    backstage.io/techdocs-engine: mkdocs
+spec:
+  type: documentation
+  lifecycle: experimental  
+  owner: group:default/team-a.o
+  system: system-a
